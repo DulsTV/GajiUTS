@@ -48,7 +48,7 @@ namespace Gaji
 
 		public void kenaikanGaji()
 		{
-			if (gaji == 1000000.00)
+			if (gaji == 2000000.00)
 			{
 
 				totalnaik = gaji * gajinaik;
